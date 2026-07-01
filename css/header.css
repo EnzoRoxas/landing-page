@@ -8,14 +8,14 @@
     align-items: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
-.logo-container {}
 
 .header-links {
     display: flex;
     font-weight: 300;
     gap: 10px;
+    color: #E5E7EB;
 }
